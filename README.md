@@ -18,7 +18,7 @@ Get basic patches and updates.
 ## Optional - Use a "Proprietary" Graphics Driver
 Assuming you have the right hardware, you can use the proprietary driver from Nvidia.  Ubuntu already knows the versions available and presents them as an easy to click radio button.
 
-- Step 1 - Navigate to "Show Applications > SOftware & Updates > Additional Drivers"
+- Step 1 - Navigate to "Show Applications > Software & Updates > Additional Drivers"
 - Step 2 - Observe that "Nouveaux" is currently checked
 - Step 3 - Check the radio button at the top such as the `nvidia-driver-470 (proprietary, tested)`
 
