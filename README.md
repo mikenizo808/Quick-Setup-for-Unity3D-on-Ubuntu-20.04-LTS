@@ -148,7 +148,7 @@ Once you have `mono` and `mono-devel` installed, feel free to follow the hello w
 
 
 ## Optional - Modify VS Code `Settings`
-Navigate to `File > Preferences > Settings` and look for the C# section for anything of interest to you.  Then, search for `mono` and where you see `OmniSharp:Mono Path`, click the the link titled `Edit in Settings.Json`.
+Navigate to `File > Preferences > Settings` and look for the C# section, or anything of else interest to you.  Then, search for `mono` and where you see `OmniSharp:Mono Path`, click the the link titled `Edit in Settings.Json`.
 
 Here is an example setup, which includes turning off `telemetry` and disabling `dragAndDrop` functionality.
 
