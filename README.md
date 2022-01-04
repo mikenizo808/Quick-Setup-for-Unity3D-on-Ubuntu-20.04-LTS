@@ -11,7 +11,7 @@ Get basic patches and updates.
     sudo apt-get -y upgrade
 
 
-## show os info
+## Show OS Info
 
     cat /etc/os-release
 
@@ -23,7 +23,7 @@ Assuming you have the right hardware, you can use the proprietary driver from Nv
 - Step 3 - Check the radio button at the top such as the `nvidia-driver-470 (proprietary, tested)`
 
 
-## Install gimp
+## Optional - Install `gimp` as a snap
 The `gimp` application is like the `photoshop` of Linux and it will be needed to create artwork, save your screenshots, etc.
 
     #install the "snap" version of gimp
