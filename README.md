@@ -15,7 +15,7 @@ Get basic patches and updates.
 
     cat /etc/os-release
 
-#### Optional - Use a "Proprietary" Graphics Driver
+## Optional - Use a "Proprietary" Graphics Driver
 Assuming you have the right hardware, you can use the proprietary driver from Nvidia.  Ubuntu already knows the versions available and presents them as an easy to click radio button.
 
 - Step 1 - Navigate to "Show Applications > SOftware & Updates > Additional Drivers"
