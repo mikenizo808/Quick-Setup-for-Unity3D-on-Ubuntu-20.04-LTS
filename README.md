@@ -42,7 +42,7 @@ You do not need powershell, but why not.
     sudo apt-get update
     sudo apt-get install -y powershell
 
-*Note: If you use `PowerShell`, definitely check out the amazing repo from microsoft that allows you managage `Unity3D` using a powershell module.  Learn more at `https://github.com/microsoft/unitysetup.powershell/tree/master`. Please be aware that some commands are "not implemented" on Linux yet, and it will tell you when that is the case.  Also, you can contribute since it is open source!.
+*Note: If you use `PowerShell`, definitely check out the amazing repo from microsoft that allows you managage `Unity3D` using a powershell module.  Learn more at `https://github.com/microsoft/unitysetup.powershell/tree/master`. Please be aware that some commands are "not implemented" on Linux yet, and it will tell you when that is the case.  Also, you can contribute since it is open source!.*
 
 ## Install Visual Studio Code
 This will be our code editor. Skip this if you have your own.
